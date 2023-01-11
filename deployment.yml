@@ -14,7 +14,7 @@ spec:
   spec: 
    containers:
    - name: c1
-     image: gauravkumar9130/cdot-web:V79
+     image: gauravkumar9130/cdot-web:V80
      imagePullPolicy: Always
      stdin: true
      tty: true
